@@ -12,7 +12,7 @@ Following instructions have been given for the assignment
 
 
 
-The Interactive Plots presented in this Assignment are as follows -
+The Interactive Plots presented in this Assignment are as follows
 
 .- A Heatmap depicting the Daily Ozone Levels in New York over a period of 5 months (May to September 1973).
 
